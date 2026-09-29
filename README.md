@@ -1,7 +1,6 @@
 # Aviation Gate Assignment Optimizer
  
 ## Overview
- 
 My name is Dora Ayan, and I am a freshman studying Industrial Engineering at Georgia Tech. This is one of my personal projects, developed as part of my journey to learn Python and explore how programming can be applied to real-world aviation operations.This project simulates a simplified airport gate assignment process.
  
 ---
